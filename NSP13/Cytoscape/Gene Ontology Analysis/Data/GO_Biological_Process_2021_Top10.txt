@@ -1,0 +1,11 @@
+Term	Overlap	P-value	Adjusted P-value	Genes	RF
+regulation of cell cycle G2/M phase transition (GO:1902749)	Tir-85	4.53E-09	4.45E-07	PRKAR2B;AKAP9;PRKACA;CDK5RAP2	0.047
+ciliary basal body-plasma membrane docking (GO:0097711)	Tir-95	7.11E-09	4.45E-07	PRKAR2B;AKAP9;PRKACA;CDK5RAP2	0.421
+activation of protein kinase A activity (GO:0034199)	17-Khordad	1.02E-08	4.45E-07	PRKAR2B;PRKAR2A;PRKACA	0.17647
+cellular response to glucagon stimulus (GO:0071377)	19-Khordad	1.45E-08	4.75E-07	PRKAR2B;PRKAR2A;PRKACA	0.15789
+response to glucagon (GO:0033762)	21-Khordad	1.99E-08	4.88E-07	PRKAR2B;PRKAR2A;PRKACA	0.14285
+G2/M transition of mitotic cell cycle (GO:0000086)	4/130	2.53E-08	4.88E-07	PRKAR2B;AKAP9;PRKACA;CDK5RAP2	0.03076
+cell cycle G2/M phase transition (GO:0044839)	4/131	2.61E-08	4.88E-07	PRKAR2B;AKAP9;PRKACA;CDK5RAP2	0.03053
+regulation of G2/M transition of mitotic cell cycle (GO:0010389)	4/149	4.39E-08	7.18E-07	PRKAR2B;AKAP9;PRKACA;CDK5RAP2	0.02684
+renal water homeostasis (GO:0003091)	31-Khordad	6.72E-08	9.78E-07	PRKAR2B;PRKAR2A;PRKACA	0.09677
+regulation of mitotic cell cycle phase transition (GO:1901990)	4/188	1.12E-07	1.46E-06	PRKAR2B;AKAP9;PRKACA;CDK5RAP2	0.02127
